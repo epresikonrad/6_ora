@@ -1,0 +1,15 @@
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\App.g.cs
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes_MarkupCompile.cache
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\bin\Debug\Adatkotes.exe.config
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\bin\Debug\Adatkotes.exe
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\bin\Debug\Adatkotes.pdb
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes_MarkupCompile.lref
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\MainWindow.baml
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes.g.resources
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes.Properties.Resources.resources
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes.exe
+C:\Users\Konrad\Desktop\TW61R2\Adatkotes\Adatkotes\obj\Debug\Adatkotes.pdb
